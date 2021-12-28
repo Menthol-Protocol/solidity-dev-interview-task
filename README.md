@@ -9,7 +9,7 @@ All work should be your own. Do not plagiarize from any other submissions. We an
 
 ## Goal
 
-The primary goal of this work sample is to complete the provided smart contract, implement any improvements you believe are necessary, integrate it with [Gelato Network](https://www.gelato.network/about) by writing a smart contract resolver for Gelato and deploy to a testnet. Another very important goal of this work sample is to test your ability to effectively communicate technical details about your work via documentation and a final demonstration of your solution.
+The primary goal of this work sample is to complete the incomplete smart contract resolver, implement any improvements you believe are necessary, integrate it with [Gelato Network](https://www.gelato.network/about) by writing a smart contract resolver for Gelato and deploy to a testnet. Another very important goal of this work sample is to test your ability to effectively communicate technical details about your work via documentation and a final demonstration of your solution.
 
 ## Reading
 
@@ -27,7 +27,7 @@ If you choose to make no edits to the smart contract, please provide a written e
 
 ## Deploying
 
-Please deploy the provided smart contract to a Gelato-supported test network using a deployment script in Hardhat. Use [this Hardhat plugin](https://hardhat.org/plugins/nomiclabs-hardhat-etherscan.html) to verify the contract code on the test network. In your final pull request include the smart contract address, test network, and an [Etherscan](https://etherscan.io/) link to the deployed contract.
+Please deploy the provided smart contract to a Gelato-supported test network such as Matic using a deployment script in Hardhat. Use [this Hardhat plugin](https://hardhat.org/plugins/nomiclabs-hardhat-etherscan.html) to verify the contract code on the test network. In your final pull request include the smart contract address, test network, and an [Etherscan](https://etherscan.io/) link to the deployed contract.
 
 ## Setting up Gelato Tasks
 
